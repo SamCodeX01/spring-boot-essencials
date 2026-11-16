@@ -12,6 +12,6 @@ public class ErrorResponse {
     private String message;
     private Integer status;
 
-}
+ }
 
 
